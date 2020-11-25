@@ -1,0 +1,8 @@
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Entity\bin\Debug\netcoreapp3.1\WebScrape.Entity.deps.json
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Entity\bin\Debug\netcoreapp3.1\WebScrape.Entity.dll
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Entity\bin\Debug\netcoreapp3.1\WebScrape.Entity.pdb
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Entity\obj\Debug\netcoreapp3.1\WebScrape.Entity.AssemblyInfoInputs.cache
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Entity\obj\Debug\netcoreapp3.1\WebScrape.Entity.AssemblyInfo.cs
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Entity\obj\Debug\netcoreapp3.1\WebScrape.Entity.dll
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Entity\obj\Debug\netcoreapp3.1\WebScrape.Entity.pdb
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Entity\obj\Debug\netcoreapp3.1\WebScrape.Entity.csprojAssemblyReference.cache

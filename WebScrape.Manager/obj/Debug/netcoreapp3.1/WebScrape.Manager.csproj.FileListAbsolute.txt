@@ -1,0 +1,15 @@
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Manager.deps.json
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Manager.dll
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Manager.pdb
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\obj\Debug\netcoreapp3.1\WebScrape.Manager.csprojAssemblyReference.cache
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\obj\Debug\netcoreapp3.1\WebScrape.Manager.AssemblyInfoInputs.cache
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\obj\Debug\netcoreapp3.1\WebScrape.Manager.AssemblyInfo.cs
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\obj\Debug\netcoreapp3.1\WebScrape.Manager.dll
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\obj\Debug\netcoreapp3.1\WebScrape.Manager.pdb
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Dal.dll
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Dto.dll
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Entity.dll
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Dal.pdb
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Dto.pdb
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\bin\Debug\netcoreapp3.1\WebScrape.Entity.pdb
+C:\Users\emre.dinc\Desktop\WebScrape\WebScrape.Manager\obj\Debug\netcoreapp3.1\WebScrape.Manager.csproj.CopyComplete
